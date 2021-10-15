@@ -1,3 +1,2 @@
 ## Artículo en JCodePoint
-* [JSF Command Button]
-* [JSF Etiquetas]
+* [JSF Command Button](https://jcodepoint.com/jsf/etiquetas/jsf-commandbutton/)
